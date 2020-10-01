@@ -30,7 +30,7 @@ class KillStreak extends PluginBase{
         $this->saveDefaultConfig();
         $this->getProvider()->prepare();
         $this->getServer()->getPluginManager()->registerEvents(new EventListener($this), $this);
-        // Igancio's Announcment
+        // Ignacio's Announcment
 		$this->announcment = new Config($this->getDataFolder()."announcment.yml", Config::YAML, [
 			"killstreaks-where-it-sends-message" => [
 				5,
@@ -40,7 +40,7 @@ class KillStreak extends PluginBase{
 				25,
 				30
 			],
-			"message" => "Player {player} has reached {killstreak} killstreak!"
+			"message" => "Player {player} has reached a killstreak of {killstreak}!"
 		]);
 		$this->announcment->save();
     }
