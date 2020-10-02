@@ -1,9 +1,8 @@
 # KillStreaks
-
-KillSteaks plugin for Pocketmine.
-Original plugin by: https://github.com/Inaayat04/KillStreak
-Modified to include a broadcast when a kill threshold is hit and few minor changes
-Color formatting is supported use §
+- KillSteaks plugin for Pocketmine.
+- Original plugin by: https://github.com/Inaayat04/KillStreak
+- *Modified to include a broadcast when a kill threshold is hit and few minor changes
+- *Color formatting is supported use §
 
 Credit to @jackmd and @Inaayat04
 
