@@ -4,7 +4,7 @@
 - Modified to include a broadcast when a kill threshold is hit and few minor changes
 - Color formatting is supported use §
 
-Credit to @jackmd and @Inaayat04
+  Credit to @jackmd and @Inaayat04
 
 ## How to Install?
 
